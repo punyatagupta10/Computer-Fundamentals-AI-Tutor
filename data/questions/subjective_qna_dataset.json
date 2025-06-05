@@ -1,0 +1,32 @@
+[
+    {
+        "Subject": "Operating System",
+        "Topic": "Process Management",
+        "Question": "Differentiate between tightly coupled systems and loosely coupled systems.",
+        "Answer": "Tightly coupled systems have strong interdependencies among components, leading to high performance but low flexibility. Loosely coupled systems have minimal interdependencies, enhancing flexibility, scalability, and fault tolerance."
+    },
+    {
+        "Subject": "Operating System",
+        "Topic": "System Components",
+        "Question": "List out the various operating system components.",
+        "Answer": "1. Kernel 2. Process Management 3. Memory Management 4. File System 5. Device Drivers 6. User Interface"
+    },
+    {
+        "Subject": "Computer Networks",
+        "Topic": "Basic Concepts",
+        "Question": "Define computer network.",
+        "Answer": "A network consists of two or more computers that are linked in order to share resources, exchange files, or allow electronic communications."
+    },
+    {
+        "Subject": "Computer Networks",
+        "Topic": "Networking Devices",
+        "Question": "What is hub? Give types of hub.",
+        "Answer": "A hub is a connecting device used in star topology networks. Types include: Passive Hub, Active Hub, Intelligent Hub."
+    },
+    {
+        "Subject": "Computer Networks",
+        "Topic": "Cabling",
+        "Question": "Why the network cable is twisted?",
+        "Answer": "Twisting helps cancel out electromagnetic interference (EMI) and reduces crosstalk between pairs of wires."
+    }
+]
